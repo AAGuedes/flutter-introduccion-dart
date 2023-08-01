@@ -2,7 +2,7 @@ void main () {
   
   print(greetEveryone());
   
-  print ('Suma: ${addTwoNumbers(10,20)}');
+  print('Suma: ${addTwoNumbers(10,20)}');
   
   print(greetPerson(name : 'Airam', message: 'Hi'));
 }
